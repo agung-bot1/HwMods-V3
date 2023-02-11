@@ -1,5 +1,5 @@
 const menu =  ` 
-° Owner  : 𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚
+° Owner  : Agung
 ° Version : 13
 ° Baileys : 5.0.0
 
